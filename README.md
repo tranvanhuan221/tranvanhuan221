@@ -37,8 +37,8 @@ Tôi yêu thích lập trình và luôn muốn học hỏi công nghệ mới. H
 
 ## 📌 Liên Hệ
 
-- 📧 **Email**: tranhvanhuaan@gmail.com
+- 📧 **Email**: tranhvanhuannr@gmail.com
 - 🔗 **LinkedIn**: [Trần Văn Huân](https://linkedin.com)
-- 📍 **Location**: TP Hồ Chí Minh, Việt Nam
+- 📍 **Location**: Phường Hiệp Bình, TP Hồ Chí Minh, Việt Nam
 
 ---

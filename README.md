@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Giới Thiệu
 
-Tôi là Frontend Developer Intern tại công ty Dr An Cả Nhân. Tôi đang học tập tại **FPT Polytechnic TP HCM** chuyên ngành **Lập trình Web Frontend** (2023 - 2026).
+Tôi là Frontend Developer. Tôi đang học tập tại **FPT Polytechnic TP HCM** chuyên ngành **Lập trình Web Frontend** (2023 - 2026).
 
 Tôi yêu thích lập trình và luôn muốn học hỏi công nghệ mới. Hiện tại, tôi đang phát triển các kỹ năng về Frontend với React, JavaScript, và xây dựng các ứng dụng web chức năng và đẹp mắt.
 
@@ -38,10 +38,7 @@ Tôi yêu thích lập trình và luôn muốn học hỏi công nghệ mới. H
 ## 📌 Liên Hệ
 
 - 📧 **Email**: tranhvanhuaan@gmail.com
-- 📱 **Phone**: 0866-673-850
 - 🔗 **LinkedIn**: [Trần Văn Huân](https://linkedin.com)
 - 📍 **Location**: TP Hồ Chí Minh, Việt Nam
 
 ---
-
-⭐ **Follow me để cập nhật các dự án mới!**

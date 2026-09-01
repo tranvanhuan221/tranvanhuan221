@@ -8,7 +8,7 @@
 
 Tôi là Frontend Developer. Tôi đang học tập tại **FPT Polytechnic TP HCM** chuyên ngành **Lập trình Web Frontend** (2023 - 2026).
 
-Tôi yêu thích lập trình và luôn muốn học hỏi công nghệ mới. Hiện tại, tôi đang phát triển các kỹ năng về Frontend với React, JavaScript, và xây dựng các ứng dụng web chức năng và đẹp mắt.
+Tôi yêu thích lập trình và luôn muốn học hỏi công nghệ mới. Hiện tại, tôi đang phát triển các kỹ năng về Frontend với React, JavaScript, NodeJS và xây dựng các ứng dụng web chuyên nghiệp và đẹp mắt.
 
 ---
 

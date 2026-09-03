@@ -14,24 +14,34 @@ Tôi yêu thích lập trình và luôn muốn học hỏi công nghệ mới. H
 
 ## 🛠️ Kỹ Năng Chuyên Ngành
 
-### **Frontend**
-- **HTML5** - Cấu trúc web semantik
-- **CSS3** - Styling, Flexbox, Grid, Responsive Design
-- **JavaScript** - DOM Manipulation, Event Handling, ES6+
-- **TypeScript** - Type-safe programming
-- **React** - Component-based UI, State Management
-- **Bootstrap & Tailwind CSS** - UI Frameworks
+### 🎨 Frontend
 
-### **Backend**
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web framework
-- **MongoDB** - NoSQL database
+- **HTML5** – Semantic HTML
+- **CSS3** – Flexbox, Grid, Responsive Design
+- **JavaScript** – ES6+, DOM Manipulation, Event Handling, Async/Await
+- **TypeScript** – Types, Interfaces, Type Safety
+- **React** – Component-based UI, Hooks, State Management
+- **React Router** – Client-side Routing
+- **Redux Toolkit** – State Management
+- **RTK Query** – Data Fetching, Caching, API State Management
+- **Bootstrap & Tailwind CSS** – Responsive UI Development
 
-### **Tools & Công Cụ**
-- **Git & GitHub** - Version control
-- **Postman** - API testing
-- **VS Code** - Code editor
-- **Chrome DevTools** - Debugging
+### ⚙️ Backend
+
+- **Node.js** – JavaScript Runtime
+- **Express.js** – Web Framework for Node.js
+- **REST API** – API Development
+- **MongoDB** – NoSQL Database
+- **Mongoose** – ODM for MongoDB
+- **JWT** – Authentication & Authorization
+
+### 🔧 Công Cụ
+
+- **Git & GitHub** – Version Control & Collaboration
+- **Postman** – API Testing
+- **VS Code** – Code Editor
+- **Chrome DevTools** – Debugging
+- **Figma** – UI/UX Design & Prototyping
 
 ---
 
